@@ -24,7 +24,7 @@ Centroids (Cyan): Each cluster has a centroid (indicated by cyan dots), which is
 
 The x-axis is labeled 'Income' and the y-axis 'Total_Spending'. Both axes have positive and negative values, suggesting that the data has been scaled or normalized.
 
-From the perspective of a business, these clusters can help in tailoring marketing strategies. For instance, targeting might involve focusing on high-income, high-spending customers differently than low-income, high-spending customers. The company could also investigate why certain high-income customers are low-spenders and develop strategies to increase their spending.
+
 
 
 
