@@ -1,4 +1,5 @@
 Data Source : https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
 we performed customer segmentation using K-Means clustering based on spending and income patterns after data preprocessing, feature engineering, and scaling. We identified distinct customer groups to inform targeted marketing strategies by analyzing clusters visually and quantitatively.
 
 Algorithm : K-Means
